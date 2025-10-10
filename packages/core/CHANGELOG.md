@@ -1,5 +1,14 @@
 # @remote-dom/core
 
+## 1.10.1
+
+### Patch Changes
+
+- [#600](https://github.com/Shopify/remote-dom/pull/600) [`d9b4dab`](https://github.com/Shopify/remote-dom/commit/d9b4dab1ce2f76751fafab04e7a6ede8a3aa8045) Thanks [@henrytao-me](https://github.com/henrytao-me)! - Fix document fragment owner document
+
+- Updated dependencies [[`d9b4dab`](https://github.com/Shopify/remote-dom/commit/d9b4dab1ce2f76751fafab04e7a6ede8a3aa8045)]:
+  - @remote-dom/polyfill@1.5.1
+
 ## 1.10.0
 
 ### Minor Changes
